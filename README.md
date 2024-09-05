@@ -15,3 +15,6 @@ consulte los siguientes recursos para obtener información detallada sobre el pr
 
 - *[Enlace al tablero de Trello](https://trello.com/invite/b/66c7889d558e64337df87c0c/ATTI156c5f23a43c120efd19746a6be16ba8D46D1177/sistemas-distribuidos)*
 
+## Respositorios
+- *[Repositorio Backend](https://github.com/nicolas2002r/api-restful-backend)*
+- *[Repositorio Frontend](https://github.com/nicolas2002r/api-restful-frontend)*

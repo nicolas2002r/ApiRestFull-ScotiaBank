@@ -18,3 +18,6 @@ consulte los siguientes recursos para obtener información detallada sobre el pr
 ## Respositorios
 - *[Repositorio Backend](https://github.com/nicolas2002r/api-restful-backend)*
 - *[Repositorio Frontend](https://github.com/nicolas2002r/api-restful-frontend)*
+
+## Figma
+- *[Mockup](https://www.figma.com/design/3wcbovITpuHOljVIcNik93/Project?node-id=0-1&node-type=CANVAS&t=7IBH9THh6jcuMS33-0)*
